@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kiron
+- 👋 Hi, I’m @Md Kiron Ali
 - 👀 I’m interested in Artificial Intelligence programming
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...Machine learning
