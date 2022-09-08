@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kiron
 - 👀 I’m interested in Artificial Intelligence programming
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...Machine learning
+- 📫 How to reach me ...bdkiron.cn2020@gmail.com
 
 <!---
 bdKiron/bdKiron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
